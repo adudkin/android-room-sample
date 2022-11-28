@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Room Database</string>
+    <string name="insertion">Создать</string>
+    <string name="energy_value_template">%1$d Ккал</string>
+    <string name="hint_new_product_name">Имя продукта</string>
+    <string name="hint_word">Энергетическая ценность в Ккал</string>
+    <string name="button_save">Сохранить</string>
+    <string name="empty_not_saved">Не сохранено</string>
+</resources>
